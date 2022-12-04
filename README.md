@@ -16,3 +16,18 @@ On the other hand, a dynamic website is one where content is pulled on-the-fly, 
  
  //Errata:  خرابی
  // all modern browsers understand JavaScript—and soon you will understand it too.
+
+
+
+
+https://dev.to/this_mkhy/do-you-know-es6-part-3-advanced-3fcl#IIFE-1   (important link for promises, async, await concept)
+
+
+
+
+
+
+
+
+
+https://dev.to/dailydevtips1/10-games-to-learn-javascript-155j
