@@ -112,3 +112,35 @@ function morninggreet(name){
 
 }
 setTimeout(morning,2000, "John", morninggreet)
+
+
+
+
+
+
+
+Symbol is a brand new data type introduced in ES6 (we mentioned ECMA Script 6,
+or ES6, in Chapter 1, Getting Started with JavaScript). Symbol can be used when it is
+important that variables are not equal, even though their value and type are the same
+(in this case, they would both be of the symbol type). Compare the following string
+
+
+
+
+
+There is an odd one out, and that is the null type. In the output you can see that
+typeof null returns object, while in fact, null truly is a primitive and not an object.
+This is a bug that has been there since forever and now cannot be removed due to
+backward compatibility problems. Don't worry about this bug, as it won't affect our
+programs—just be aware of it, since it will go nowhere anytime soon, and it has the
+potential to break applications.
+declarations to the symbol declarations, all of equal value:
+let str1 = "JavaScript is fun!";
+let str2 = "JavaScript is fun!";
+console.log("These two strings are the same:", str1 === str2);
+let sym1 = Symbol("JavaScript is fun!");
+let sym2 = Symbol("JavaScript is fun!");
+console.log("These two Symbols are the same:", sym1 === sym2);
+And the output:
+These two strings are the same: true
+These two Symbols are the same: false
