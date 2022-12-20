@@ -1,4 +1,87 @@
-# learning-javascript
+Dude mean man/friend
+relax ===chill
+to study hard === to cram
+to do well == to ace e.g: I aced my math exam mean I did very well.
+
+amazing/good//enjoyable === lit/Dope
+crazy === nuts
+# learning-js is an excellent choice.
+
+Q:Usage of js?
+A:it is used in both side server side and client side.
+
+Q:Difference between server side and client side?
+A:Server side mean itt runs on computer in data center and interact with database.
+Client side mean it runs on the device of the user.
+
+Q:When js originate?
+A: It originate in 1995.
+
+Q:Why should you learn JavaScript?
+A:JavaScript is the language that web browsers support and understand. It is a great programming language for beginners and a great choice for beginners. JavaScript can be used for (semi) object-oriented, functional, and procedural programming, which are just different programming paradigms.  Examples of these great libraries and frameworks include React, Vue.js, jQuery, Angular, and Node.js.
+
+Q:What is stack overflow?
+Stack Overflow is a question and answer website for professional and enthusiast programmers. It is the flagship site of the Stack Exchange Network. It was created in 2008 by Jeff Atwood and Joel Spolsky. It features questions and answers on a wide range of topics in computer programming.
+
+Q: How to Setting up your environment for js?
+A: You need IDE, Web browser(it's better not to use Internet Explorer, which doesn't support the latest JavaScript features. Two good options would be Chrome and Firefox. They support the latest JavaScript features and helpful plugins are available),
+
+Q: What is Integrated Development Environment (IDE)
+A: An Integrated Development Environment (IDE) is a special application that is used to write, run, and debug code. You can just open it like you would any program. For example, to write a text document, you need to open the program, select the right file, and start to write. Coding is similar. You open the IDE and write the code. If you want to execute the code, the IDE often has a special button for this. Pressing this button will run the code from inside the IDE.
+
+Q: Write the names of different types of IDE.
+A: VS Code, Atom, Sublime Text, and WebStorm.
+
+Q:How does the browser understand JavaScript?
+A:Js is an interpereted language which mean that the computer understands it while running it. Some languages get processed before running, this is called compiling, but not JavaScript. The computer can just interpret JavaScript on the fly. The "engine" that understands JavaScript will be called the interpreter here.
+
+Q: Web page consist of how many languages?
+A: Web pages are written in three languages: HTML(HTML determines what is on the page; the content of the page), CSS(CSS is the layout(he way in which the parts of something are arranged or laid out."the road layout") of the web page), and JavaScript( defines what the web page can do and how it can interact with the user or the backend. ).
+
+Q:What is ECMAScript?
+A:This is the specification or standardization for the JavaScript language. The current standard is ECMAScript 6 (also referred to as ES6). Browsers use this specification to support JavaScript, ECMAScript can be considered the basic specification that the JavaScript implementation will definitely include.
+
+
+Q: How to link JavaScript to a web page?
+A: There are two ways to link JavaScript to a web page. The first way is to type the JavaScript directly in the HTML between two <script> tags. In HTML, the first tag is <script>, is to declare that the following script will be executed. Then we have the content that should be inside this element.
+<html>
+ <script type="text/javascript">
+ alert("Hi there!");
+ </script>
+</html>
+If you store this as a .html file, and open the file in your browser. We will be storing this one as Hi.html.
+The alert command will create a popup that provides a message. 
+
+Next, we close the script with the same tag, but preceded by a forward slash, </script>. Or you can link a JavaScript file to the HTML file using the script tag at the head of the HTML page. Linking an external file to our web page: You could also link an external file to the HTML file. This is considered a better
+practice, as it organizes code better and you can avoid very lengthy HTML pages due to the JavaScript. First, we are going to create a separate JavaScript file. These files have the postfix .js. I'm going to call it ch1_alert.js.
+
+ <script type="text/javascript" src="ch1_alert.js">     </script>
+
+Q:What is the shortcut key for opening the console on browser?
+A: F12
+
+Q: What is console nad debuging?
+A: The console is used by developers to log what is going on and do any debugging. Debugging is finding the problem when an application is not displaying the desired
+behavior. The console gives some insights as to what is happening if you logsensible messages.
+
+Q: What is the use of console.log(); in js?
+A: The console.log() is a function in JavaScript that is used to print any kind of variables defined before in it or to just print any message that needs to be displayed to the user.
+ 
+ Q: What is the syntax to write console.log()
+ A: There are two two different syntaxes for different purposes. One syntax for printing variable/object/function etc. syntax: console.log(name of variable/object/function write here in parenthesis); 
+ the other syntax is for printing any message that need to be displayed on the user, that synax is following
+console.log("");
+
+
+
+Q: What is the use of alert function in js?
+A: The alert() function. This function will display text in a dialog box that pops up on the screen.
+
+Q:What is the syntax to write alert?
+A: here are two two different syntaxes for different purposes. One syntax is for printing variable/object/function etc. syntax: alert(name of variable/object/function write here in parenthesis); 
+ the other syntax is for printing any message that need to be displayed on the user, that synax is following
+alert("");
+
 ///$$$$$$$$$$$$$$$$$$$$$         Static Vs Dynamic websites      $$$$$$$$$$$$$$$$$$$$$$$////
 A static website is one with stable content, where every user sees the exact same thing on each individual page.
 On the other hand, a dynamic website is one where content is pulled on-the-fly, allowing its content to change with the user.
