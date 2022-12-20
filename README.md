@@ -1,10 +1,10 @@
-Dude mean man/friend
-relax ===chill
-to study hard === to cram
-to do well == to ace e.g: I aced my math exam mean I did very well.
+Dude === man/friend,,,,,
+relax ===chill,,,,
+to study hard === to cram,,,,,
+to do well == to ace e.g: I aced my math exam mean I did very well.  ,,,,
 
-amazing/good//enjoyable === lit/Dope
-crazy === nuts
+amazing/good//enjoyable === lit/Dope,,,,
+crazy === nuts,,,
 # learning-js is an excellent choice.
 
 Q:Usage of js?
