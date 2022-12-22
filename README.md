@@ -81,6 +81,15 @@ Q:What is the syntax to write alert?
 A: here are two two different syntaxes for different purposes. One syntax is for printing variable/object/function etc. syntax: alert(name of variable/object/function write here in parenthesis); 
  the other syntax is for printing any message that need to be displayed on the user, that synax is following
 alert("");
+ 
+ Q:  How do you actually write JavaScript code?
+ A:  Using the right indentation level, using semicolons, and adding comments.  After every statement, you should insert a semicolon.  With comments, you can tell the interpreter to ignore some lines of the file.  There are two ways to write comments. You can either write single-line comments or
+multi-line comments.  Whatever comes
+after the // on the line will get ignored. The second one is multiline; it is written by
+starting with /* and ending with */.
+ 
+What is prompt in js?
+ A: In JavaScript, we use the prompt() function to ask the user for input. As a parameter, we input the text we want to display to the user. Once the user presses “ok,” the input value is returned. We typically store user input in a variable so that we can use the information in our program.
 
 ///$$$$$$$$$$$$$$$$$$$$$         Static Vs Dynamic websites      $$$$$$$$$$$$$$$$$$$$$$$////
 A static website is one with stable content, where every user sees the exact same thing on each individual page.
@@ -257,3 +266,4 @@ false boolean
 This output shows that any string will return true when converted to a Boolean,
 even the string "false"! Only an empty string, null, and undefined will lead to a
 Boolean value of false.
+
